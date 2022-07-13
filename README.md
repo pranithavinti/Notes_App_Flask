@@ -4,5 +4,5 @@ The notes can be only accessed when the user logs in with their email and passwo
 
 Every new user can create an account through the sign-up page. Once the account is created, the user can log in to their account by providing the details and after logging in the user can start adding their notes. The User can log out and when logged back they can still have access to saved notes until they delete the note. 
 
-The Front end part is developed using **HTM**L, **CSS**, **Bootstrap**, **Jinja2** templating, and a little bit of **Javascript**.
+The Front end part is developed using **HTM**L, **CSS**, **Bootstrap**, **Jinja2** templating, and a little bit of **Javascript**. <br />
 The back end is developed using **Flask**, **Python**, and **SQLAlchemy** is used for database management. 
