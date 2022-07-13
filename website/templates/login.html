@@ -1,0 +1,30 @@
+{% extends "base.html" %} {% block title %}Login{% endblock %} {% block content %}
+<link rel="stylesheet" href="/static/style.css">
+<div class="center">
+  <h1>Login</h1>
+  <form method="POST">
+    <div class="txt_field">
+      <input type="email"
+             id="email"
+             name="email"
+             required/>
+      <span></span>
+      <label>Email</label>
+    </div>
+    <div class="txt_field">
+      <input type="password"
+             id="password"
+             name="password"
+             required>
+      <span></span>
+      <label>Password</label>
+    </div>
+    <div class="buttons">
+      <button class="btn-hover login">Login</button>
+    </div>
+    <div class="signup_link">
+      Not a member? <a href="/sign-up">Signup</a>
+    </div>
+  </form>
+</div>
+{% endblock %}
