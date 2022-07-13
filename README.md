@@ -6,3 +6,5 @@ Every new user can create an account through the sign-up page. Once the account 
 
 The Front end part is developed using **HTML**, **CSS**, **Bootstrap**, **Jinja2** templating, and a little bit of **Javascript**. <br />
 The back end part is developed using **Flask**, **Python**, and **SQLAlchemy** is used for database management. 
+
+Web App deployed on Heroku : https://notes-app20.herokuapp.com/login
