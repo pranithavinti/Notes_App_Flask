@@ -1,4 +1,4 @@
-# Notes Web Application 
+# Notes Web Application 📝
 It is a basic Web Application created using Flask for adding new notes to their account and also deleting any existing notes from the account. 
 The notes can be only accessed when the user logs in with their email and password. Any number of users can use this web application and their notes are secured and can only be accessed through their unique account details.
 
